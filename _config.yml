@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: Edward D. Kim
-description: Assistant professor in the <a href="https://www.uwlax.edu/mathematics/">Department of Mathematics and Statistics</a> at <a href="https://www.uwlax.edu/">University of Wisconsin-La Crosse</a>. [<a href="/edward_d_kim_cv.pdf">CV</a>]
+name: Edward D. Kim, Personal Web Page
+description: ca.us, .cat, .nl, .kr, wi.us
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://edward-kim-math.github.io/
+url: http://edward-d-kim.github.io/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
